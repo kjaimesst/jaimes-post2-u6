@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 C:\Users\USER\Documents\Web\jaimes-post1-u7\productos-web\src\main\java\com\universidad\productosweb\controller\ProductoController.java
 C:\Users\USER\Documents\Web\jaimes-post1-u7\productos-web\src\main\java\com\universidad\productosweb\model\Producto.java
 C:\Users\USER\Documents\Web\jaimes-post1-u7\productos-web\src\main\java\com\universidad\productosweb\ProductosWebApplication.java
 C:\Users\USER\Documents\Web\jaimes-post1-u7\productos-web\src\main\java\com\universidad\productosweb\service\ProductoService.java
+=======
+c:\Users\USER\Documents\Web\jaimes-post2-u6\src\main\java\com\universidad\mvc\controller\IdiomaServlet.java
+c:\Users\USER\Documents\Web\jaimes-post2-u6\src\main\java\com\universidad\mvc\model\Producto.java
+c:\Users\USER\Documents\Web\jaimes-post2-u6\src\main\java\com\universidad\mvc\model\Usuario.java
+c:\Users\USER\Documents\Web\jaimes-post2-u6\src\main\java\com\universidad\mvc\service\ProductoService.java
+c:\Users\USER\Documents\Web\jaimes-post2-u6\src\main\java\com\universidad\mvc\model\ProductoDAO.java
+c:\Users\USER\Documents\Web\jaimes-post2-u6\src\main\java\com\universidad\mvc\controller\LoginServlet.java
+c:\Users\USER\Documents\Web\jaimes-post2-u6\src\main\java\com\universidad\mvc\controller\ProductoServlet.java
+>>>>>>> ec330a744e763f4d9ee2e2d091469d592544e28a

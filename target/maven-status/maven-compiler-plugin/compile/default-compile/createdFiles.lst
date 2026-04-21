@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 com\universidad\productosweb\model\Producto.class
 com\universidad\productosweb\controller\ProductoController.class
 com\universidad\productosweb\service\ProductoService.class
 com\universidad\productosweb\ProductosWebApplication.class
+=======
+com\universidad\mvc\model\Usuario.class
+com\universidad\mvc\service\ProductoService.class
+com\universidad\mvc\model\Producto.class
+com\universidad\mvc\controller\IdiomaServlet.class
+com\universidad\mvc\controller\ProductoServlet.class
+com\universidad\mvc\controller\LoginServlet.class
+com\universidad\mvc\model\ProductoDAO.class
+>>>>>>> ec330a744e763f4d9ee2e2d091469d592544e28a

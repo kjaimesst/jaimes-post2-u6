@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5efe6;
+    color: #4a3f35;
+
+    /* 🔥 CENTRADO GLOBAL */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* ===== HEADER ===== */
+header {
+    width: 100%;
+    background-color: #f2d6d6;
+    padding: 20px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    border-bottom: 3px solid #e8cfcf;
+}
+
+/* ===== CONTENEDOR GENERAL ===== */
+.container {
+    width: 80%;
+    max-width: 1000px;
+    margin-top: 30px;
+
+    background-color: #fffaf5;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ===== LOGIN ===== */
+.login-box {
+    width: 350px;
+    padding: 25px;
+    background-color: #fffaf5;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
+    text-align: center;
+
+    /* 🔥 CENTRADO PERFECTO */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* ===== INPUTS ===== */
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #e8cfcf;
+    border-radius: 8px;
+}
+
+/* ===== BOTONES ===== */
+button, .btn {
+    background-color: #f2b6b6;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover, .btn:hover {
+    background-color: #e89a9a;
+}
+
+/* ===== TABLA CENTRADA ===== */
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table th {
+    background-color: #f2d6d6;
+    padding: 10px;
+}
+
+table td {
+    padding: 10px;
+    border-bottom: 1px solid #e8cfcf;
+}
+
+/* ===== LINKS ===== */
+a {
+    color: #c98c8c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
